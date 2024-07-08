@@ -31,7 +31,7 @@
 <server>False</server>
 <hasprocessingprovider>False</hasprocessingprovider>
 <category>Vector</category>
-<download_url>http://localhost:5000/download/alkis_geocoder.zip</download_url>
+<download_url>https://github.com/idhamideglv/qgis-plugins-repo/blob/main/alkis_geocoder.zip</download_url>
 <tags/>
 </pyqgis_plugin>
 
