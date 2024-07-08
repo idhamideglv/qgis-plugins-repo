@@ -1,0 +1,38 @@
+<plugins>
+
+<pyqgis_plugin version="2.7" name="GBD ALKIS Geocoder">
+<id>3</id>
+<md5_sum>75f9eee2318cdfdc19f7654bc3d2fa2a</md5_sum>
+<file_name>alkis_geocoder.zip</file_name>
+<uploaded_by>admin</uploaded_by>
+<create_date>2024-07-04 14:00:09.621000</create_date>
+<update_date>2024-07-04 14:01:38.450858</update_date>
+<public>False</public>
+<trusted>True</trusted>
+<average_votes>0.0</average_votes>
+<rating_votes>0</rating_votes>
+<downloads>0</downloads>
+<name>GBD ALKIS Geocoder</name>
+<qgis_minimum_version>3.0</qgis_minimum_version>
+<qgis_maximum_version>3.99</qgis_maximum_version>
+<description>Geokodierung von Adresstabellen mittels GBD WebSuite und ALKIS Datenbank</description>
+<about>Dieses Plugin ermöglicht die Geokodierungen von Adressdaten (Ort, Straße und Hausnummer) auf Basis von Daten des Amtlichen Liegenschaftskatasterinformationssystems ALKIS. Voraussetzung ist, dass ein Nutzeraccount zu einer GBD WebSuite mit aktiver alkisgeocoder Schnittstelle aktiv ist und das ALKIS Modul der GBD WebSuite genutzt wird, um Liegenschaftsdaten zu verwalten, abzufragen und zur Verfügung zu stellen.</about>
+<version>2.7</version>
+<author>Geoinformatikbüro Dassau GmbH</author>
+<email>info@gbd-consult.de</email>
+<repository>https://github.com/gbd-consult/alkis-geocoder</repository>
+<homepage>https://www.gbd-consult.de</homepage>
+<tracker>https://github.com/gbd-consult/alkis-geocoder/issues</tracker>
+<changelog>None</changelog>
+<experimental>False</experimental>
+<deprecated>False</deprecated>
+<icon>/icons/alkis_geocoder.png</icon>
+<external_dependencies/>
+<server>False</server>
+<hasprocessingprovider>False</hasprocessingprovider>
+<category>Vector</category>
+<download_url>http://localhost:5000/download/alkis_geocoder.zip</download_url>
+<tags/>
+</pyqgis_plugin>
+
+</plugins>
